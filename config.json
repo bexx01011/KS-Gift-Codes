@@ -1,0 +1,9 @@
+{
+    "PLAYER_IDS_FILE": "player_ids.txt",
+    "URL": "https://ks-giftcode.centurygame.com",
+    "WAIT": 1,
+    "MAX_THREADS": 3,
+    "MAX_RETRIES": 2,
+    "RESULTS_DIR": "results",
+    "GIFT_CODE": "SEEYOUIN2026"
+}
