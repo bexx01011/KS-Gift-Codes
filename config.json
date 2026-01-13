@@ -1,9 +1,10 @@
 {
-    "PLAYER_IDS_FILE": "player_ids.txt",
+    "PLAYER_IDS_FILE": "player_ids.xlsx",
     "URL": "https://ks-giftcode.centurygame.com",
     "WAIT": 1,
     "MAX_THREADS": 3,
     "MAX_RETRIES": 2,
     "RESULTS_DIR": "results",
-    "GIFT_CODE": "SEEYOUIN2026"
+    "GIFT_CODE": "ENERGY0112",
+    "SAVE_RESULTS": 1
 }
